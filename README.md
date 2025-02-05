@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a full-time university professor and I'm just starting to use GitHub. I consider myself a newbie eager to learn how to apply this platform to my research tasks.
 <!--
 **carlosUCA2025/carlosUCA2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
